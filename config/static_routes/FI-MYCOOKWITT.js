@@ -1,0 +1,22 @@
+module.exports = [
+    "/",
+    "/all-about-mycook",
+    "/mycook-touch",
+    "/mycook-touch-functions",
+    "/mycook-functions",
+    "/mycook-components",
+    "/recipes",
+    "/search",
+    "/advanced-search",
+    "/blog",
+    "/club-mycook",
+    "/contact",
+    "/faqs",
+    "/downloads",
+    "/tutorials",
+    "/login",
+    "/forgot-password",
+    "/change-password",
+    "/signup",
+    "/privacy-policy"
+];

@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/Pradins/seoRoutesGenerator.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/Pradins/seoRoutesGenerator.git",
+        "spec": "git+https://github.com/Pradins/seoRoutesGenerator.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:Pradins/seoRoutesGenerator.git",
+          "sshUrl": "git+ssh://git@github.com/Pradins/seoRoutesGenerator.git",
+          "httpsUrl": "git+https://github.com/Pradins/seoRoutesGenerator.git",
+          "gitUrl": "git://github.com/Pradins/seoRoutesGenerator.git",
+          "shortcut": "github:Pradins/seoRoutesGenerator",
+          "directUrl": "https://raw.githubusercontent.com/Pradins/seoRoutesGenerator/master/package.json"
+        }
+      },
+      "C:\\repos\\testSeo"
+    ]
+  ],
+  "_from": "git+https://github.com/Pradins/seoRoutesGenerator.git",
+  "_id": "seo-url-generator@1.0.0",
+  "_inCache": true,
+  "_location": "/seo-url-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/Pradins/seoRoutesGenerator.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/Pradins/seoRoutesGenerator.git",
+    "spec": "git+https://github.com/Pradins/seoRoutesGenerator.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:Pradins/seoRoutesGenerator.git",
+      "sshUrl": "git+ssh://git@github.com/Pradins/seoRoutesGenerator.git",
+      "httpsUrl": "git+https://github.com/Pradins/seoRoutesGenerator.git",
+      "gitUrl": "git://github.com/Pradins/seoRoutesGenerator.git",
+      "shortcut": "github:Pradins/seoRoutesGenerator",
+      "directUrl": "https://raw.githubusercontent.com/Pradins/seoRoutesGenerator/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Pradins/seoRoutesGenerator.git#0f1113a74f225f90c520c44f498e7a45d7db3570",
+  "_shasum": "9a387db6819a9dd6db5fbaa08a7149c1d763a1b5",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/Pradins/seoRoutesGenerator.git",
+  "_where": "C:\\repos\\testSeo",
+  "author": "",
+  "dependencies": {
+    "async": "^2.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mongoose": "^4.6.5",
+    "request": "^2.76.0",
+    "tunnel-ssh": "^4.1.1"
+  },
+  "description": "\"# seoRoutesGenerator\"",
+  "devDependencies": {},
+  "gitHead": "0f1113a74f225f90c520c44f498e7a45d7db3570",
+  "license": "ISC",
+  "main": "app.js",
+  "name": "seo-url-generator",
+  "optionalDependencies": {},
+  "readme": "\"# seoRoutesGenerator\" \r\n",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
